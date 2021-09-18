@@ -54,5 +54,5 @@ app.post('/scrapeData', (req, resp) => {
 })
 
 app.listen(process.env.PORT || 3000, ()=>{
-    console.log(`Server zrunning on ${PORT}`);
+    console.log("Server is running");
 })
