@@ -6,3 +6,6 @@ This API is designed for scraping OGP(Open Graph Parameters) Data from an URL.
 3. Go to localhost:3000
 4. Enter any URL in the given box and click "Scrape URL".
 5. You will be able to see the data in Chrome Console.
+# Deployed
+You can visit the app on heroku using this link:
+https://nodejs-scraper-using-cheerio.herokuapp.com/
